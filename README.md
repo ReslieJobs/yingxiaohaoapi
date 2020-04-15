@@ -10,4 +10,5 @@
 此项目基于GNU General Public License v3.0进行授权。详细情况请查阅[LICENSE](https://github.com/IveTian/yingxiaohao/blob/master/LICENSE "LICENSE")。
 ### 作者
 [@Reslie](https://oqo.one/ "@Reslie")
+
 原作者：[@木辛恒同学](https://tzih.top/ "@木辛恒同学")

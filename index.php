@@ -34,7 +34,7 @@ $adj = $_GET['adj']?$_GET['adj']:'0';
 
 if($mood == '0' || $mainThing == '0' || $event == '0' || $withWhat == '0' || $adj == '0'){
 	
-		$err[0] = 'err:参数有误！<br>请按照以下设置对应参数进行请求即可获得结果：<br>mood:语气词,比如“震惊”，不要带语气标点符号<br>mainThing:主体物<br>event:事件,类似于：“混着一起吃”、“重复使用”等等<br>withWhat:与什么...（第二主体）,类似于：{主体物}不能与{与什么...}{事件}<br>adj:定语,类似于“千万不要”，“绝对不能”...<br>完整链接：'.$url.'?mood=语气词&mainThing=主体物&event=事件&withWhat=与什么&adj=定语';
+		$err[0] = 'err:参数有误！<br>请按照以下设置对应参数进行请求即可获得结果：<br>mood:语气词,比如“震惊”，不要带语气标点符号<br>mainThing:主体物<br>event:事件,类似于：“混着一起吃”、“重复使用”等等<br>withWhat:与什么...（第二主体）,类似于：{主体物}不能与{与什么...}{事件}<br>adj:定语,类似于“千万不要”，“绝对不能”...<br>完整链接：'.$url.'?mood=语气词&mainThing=主体物&event=事件&withWhat=与什么&adj=定语<br>by Reslie';
 		
 		echo $err[0];
 		
