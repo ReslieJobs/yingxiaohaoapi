@@ -1,7 +1,7 @@
 <head>
 
 <title>营销号生成器api</title>
-123
+12
 </head>
 
 <?php
