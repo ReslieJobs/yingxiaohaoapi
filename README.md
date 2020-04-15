@@ -7,7 +7,7 @@
 ### 免责说明
 请正确对待“营销号”，此工具仅供娱乐，作者不对此作品而导致的一切问题负责。
 ### 关于开源
-此项目基于GNU General Public License v3.0进行授权。详细情况请查阅[LICENSE](https://github.com/IveTian/yingxiaohao/blob/master/LICENSE "LICENSE")。
+此项目基于GNU General Public License v3.0进行授权。详细情况请查阅[LICENSE](https://github.com/ReslieJobs/yingxiaohaoapi/blob/master/LICENSE "LICENSE")。
 ### 作者
 [@Reslie](https://oqo.one/ "@Reslie")
 
